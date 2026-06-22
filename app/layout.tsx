@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ApexWash - Premium Pressure Washing",
+  title: "PremiumWash - Premium Pressure Washing",
   description: "Professional exterior cleaning services for local residential and commercial properties.",
 };
 
