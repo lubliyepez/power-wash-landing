@@ -2,7 +2,9 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer className="bg-[#020617] text-slate-500 text-xs py-8 border-t border-slate-950">
+    <footer className="bg-gray-900 text-gray-400 py-8 text-center text-sm">
+  <p>&copy; {new Date().getFullYear()} LY Digital Solutions. All rights reserved.</p>
+</footer>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
         <div>
           <span className="font-extrabold text-sm tracking-tight text-white uppercase">
